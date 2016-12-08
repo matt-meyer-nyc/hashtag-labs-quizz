@@ -1,0 +1,30 @@
+/*
+RED BOX STYLING
+*/
+.red {
+  height: 200px;
+  width: 200px;
+  background-color: #F00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+/*
+GREEN BOX STYLING
+*/
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: #0F0;
+}
+
+/*
+GREEN BOX STYLING
+*/
+.blue {
+  height: 200px;
+  width: 200px;
+  background-color: #00F;
+}
