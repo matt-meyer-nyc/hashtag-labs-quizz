@@ -1,3 +1,13 @@
+/*GENERAL STYLING (for 13-inch desktop)*/
+
+body {
+  max-width: 1024px;
+  max-height: 640px;
+}
+
+
+
+/*STYLING FOR PRACTICAL #1*/
 /*
 RED BOX STYLING
 */
@@ -28,3 +38,12 @@ GREEN BOX STYLING
   width: 200px;
   background-color: #00F;
 }
+
+
+/*-----STYLING FOR PRACTICAL #3-----*/
+#myimage {
+  height: 250px;
+  width: 300px;
+  background-color: #000;
+  position: relative;
+  top: 10px;
